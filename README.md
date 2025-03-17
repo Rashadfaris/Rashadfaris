@@ -61,9 +61,9 @@
 
 <h3 align="left">Projects and Portfolio:</h3>
 <p align="left">
-  <a href="https://github.com/rashadfaris/project1" target="_blank">Project 1</a> - A brief description of the project.
+  <a href="[https://github.com/rashadfaris/project1](https://github.com/Rashadfaris/PersonalFInanceTrackerProject)" target="_blank">Personal Finance Tracker Project</a> -Personal Finance Tracker Project.
   <br>
-  <a href="https://github.com/rashadfaris/project2" target="_blank">Project 2</a> - A brief description of the project.
+  <a href="[https://github.com/rashadfaris/project2](https://github.com/Rashadfaris/OnlineBanking_Project)" target="_blank">Online Banking project</a> - Online Banking project.
   <br>
   <a href="https://github.com/rashadfaris/project3" target="_blank">Project 3</a> - A brief description of the project.
 </p>
