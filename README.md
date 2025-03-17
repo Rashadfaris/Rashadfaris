@@ -46,26 +46,19 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Projects </h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashadfaris&show_icons=true&theme=radical" alt="rashadfaris" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashadfaris&theme=radical" alt="rashadfaris" />
-</p>
-
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashadfaris&show_icons=true&locale=en&layout=compact&theme=radical" alt="rashadfaris" />
-</p>
-
----
-
-<h3 align="left">Projects and Portfolio:</h3>
-<p align="left">
-  <a href="https://github.com/Rashadfaris/PersonalFInanceTrackerProject" target="_blank">Personal Finance Tracker Project</a> -Personal Finance Tracker Project.
+  <a href="https://github.com/Rashadfaris/PersonalFInanceTrackerProject" target="_blank">Personal Finance Tracker Project</a> 
   <br>
-  <a href="[https://github.com/rashadfaris/project2](https://github.com/Rashadfaris/OnlineBanking_Project)" target="_blank">Online Banking project</a> - Online Banking project.
+  <a href="https://github.com/Rashadfaris/OnlineBanking_Project" target="_blank">Online Banking project</a> 
   <br>
-  <a href="https://github.com/rashadfaris/project3" target="_blank">Project 3</a> - A brief description of the project.
+  <a href="https://github.com/Rashadfaris/NotesSQLite-Project" target="_blank">NotesSQLite Project3</a> 
+    
+  <br>
+     <a href="https://github.com/Rashadfaris/SkillSpark_Project" target="_blank">SkillSpark-Project</a> 
+  <br>
+  <a href="https://github.com/Rashadfaris/KandurataHardware_Project" target="_blank">KandurataHardware Project</a> 
+  <br>
 </p>
 
 ---
