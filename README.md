@@ -46,27 +46,51 @@
 
 ---
 
-<h3 align="left">Projects </h3>
-<p align="left">
-  <a href="https://github.com/Rashadfaris/PersonalFInanceTrackerProject" target="_blank">Personal Finance Tracker Project</a> 
-  <br>
-  <a href="https://github.com/Rashadfaris/OnlineBanking_Project" target="_blank">Online Banking project</a> 
-  <br>
-  <a href="https://github.com/Rashadfaris/NotesSQLite-Project" target="_blank">NotesSQLite Project3</a> 
-    
-  <br>
-     <a href="https://github.com/Rashadfaris/SkillSpark_Project" target="_blank">SkillSpark-Project</a> 
-  <br>
-  <a href="https://github.com/Rashadfaris/KandurataHardware_Project" target="_blank">KandurataHardware Project</a> 
-  <br>
-</p>
+## 🚀 Projects
 
----
-
-<h3 align="left">GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashadfaris&theme=radical" alt="rashadfaris" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>📊 Personal Finance Tracker</h3>
+      <p>A tool for managing personal expenses, budgets, and savings.</p>
+      <a href="https://github.com/Rashadfaris/PersonalFInanceTrackerProject">
+        🔗 View Project
+      </a>
+    </td>
+    <td align="center">
+      <h3>🏦 Online Banking System</h3>
+      <p>A secure and user-friendly banking platform with account management.</p>
+      <a href="https://github.com/Rashadfaris/OnlineBanking_Project">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📝 Notes App (SQLite)</h3>
+      <p>A lightweight notes management system using SQLite.</p>
+      <a href="https://github.com/Rashadfaris/NotesSQLite-Project">
+        🔗 View Project
+      </a>
+    </td>
+    <td align="center">
+      <h3>🎓 SkillSpark</h3>
+      <p>A learning platform connecting users with educational resources.</p>
+      <a href="https://github.com/Rashadfaris/SkillSpark_Project">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🔧 Kandurata Hardware Store</h3>
+      <p>An e-commerce platform for hardware products, with cart management and checkout.</p>
+      <a href="https://github.com/Rashadfaris/KandurataHardware_Project">
+        🔗 View Project
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
