@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadfaris&label=Profile%20views&color=0e75b6&style=flat" alt="rashadfaris" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 **MERN Stack**
 
 - 💬 Ask me about **Web development |OOC**
 
